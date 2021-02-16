@@ -1,6 +1,8 @@
- **Encurtador de Url**
+ # Encurtador de Url
 
-### Pré-requisitos
+Challenge da wiser educação, onde o objetivo é desenvolver uma API para encurtamento de url.
+
+# Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 
@@ -13,16 +15,19 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 Após clonar o projeto será necessarios rodar os seguintes comandos
 
 Para instalar nstalar as dependências:
-
+```
 $ yarn install
+```
 
 Para rodar o container:
-
+```
 $ docker-compose up -d
+```
 
 Executar a aplicação para testes
-
+```
 $ yarn dev
+```
 
 # Documentação
 
