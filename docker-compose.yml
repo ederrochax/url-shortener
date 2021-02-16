@@ -10,11 +10,3 @@ services:
             - /var/lib/postgresql/data
         ports:
             - "5432:5432"
-#    app:
-#        container_name: encurtador_url
-#        restart: always
-#        build: .
-#        ports:
-#            - "8081:8081"
-#        depends_on:
-#            - db
