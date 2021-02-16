@@ -1,5 +1,31 @@
-Steps to run this project:
+ **Encurtador de Url**
 
-1. Run `npm i` command
-2. Setup database settings inside `ormconfig.json` file
-3. Run `npm start` command
+### Pré-requisitos
+
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+
+- [**nodejs**](https://nodejs.org/en/)
+- [**yarn**](https://yarnpkg.com/)
+- [**docker**](https://www.docker.com/)
+- [**docker-compose**](https://docs.docker.com/compose/)
+
+# Instruções
+Após clonar o projeto será necessarios rodar os seguintes comandos
+
+Para instalar nstalar as dependências:
+
+$ yarn install
+
+Para rodar o container:
+
+$ docker-compose up -d
+
+Executar a aplicação para testes
+
+$ yarn dev
+
+# Documentação
+
+Documnetação da API no Postman 
+
+https://documenter.getpostman.com/view/14593737/TWDTNzM2
