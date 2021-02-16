@@ -14,7 +14,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 # Instruções
 Após clonar o projeto será necessarios rodar os seguintes comandos
 
-Para instalar nstalar as dependências:
+Para instalar as dependências:
 ```
 $ yarn install
 ```
