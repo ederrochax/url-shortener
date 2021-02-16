@@ -1,6 +1,6 @@
  # Encurtador de Url
 
-Challenge da wiser educação, onde o objetivo é desenvolver uma API para encurtamento de url.
+Challenge da Wiser Educação, onde o objetivo é desenvolver uma API para encurtamento de url.
 
 # Pré-requisitos
 
@@ -24,13 +24,13 @@ Para rodar o container:
 $ docker-compose up -d
 ```
 
-Executar a aplicação para testes
+Executar a aplicação para testes:
 ```
 $ yarn dev
 ```
 
 # Documentação
 
-Documnetação da API no Postman 
+Documentação da API no Postman 
 
 https://documenter.getpostman.com/view/14593737/TWDTNzM2
