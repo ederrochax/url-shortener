@@ -1,7 +1,5 @@
  # Encurtador de Url
 
-Challenge da Wiser Educação, onde o objetivo é desenvolver uma API para encurtamento de url.
-
 # Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
